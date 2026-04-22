@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b3cba3eab16059458646b705d245ed1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273463
+  packageName: UIToolkit Theme Style Sheet
+  packageVersion: 1.3.0
+  assetPath: Packages/com.denis535.uitoolkit-theme-style-sheet/Editor/UIToolkit.ThemeStyleSheet.Editor/StylusCompiler.js
+  uploadId: 719432

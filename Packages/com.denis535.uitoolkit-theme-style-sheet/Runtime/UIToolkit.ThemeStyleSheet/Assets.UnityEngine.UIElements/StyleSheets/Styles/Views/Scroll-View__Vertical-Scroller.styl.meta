@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 231adade7347de146bb674b83ccbb3f3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 0d45d9cace72dbb4eb52ed5527815b79, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273463
+  packageName: UIToolkit Theme Style Sheet
+  packageVersion: 1.3.0
+  assetPath: Packages/com.denis535.uitoolkit-theme-style-sheet/Runtime/UIToolkit.ThemeStyleSheet/Assets.UnityEngine.UIElements/StyleSheets/Styles/Views/Scroll-View__Vertical-Scroller.styl
+  uploadId: 719432

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b0b2bd6417ae3334bb59545abebee5d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273463
+  packageName: UIToolkit Theme Style Sheet
+  packageVersion: 1.3.0
+  assetPath: Packages/com.denis535.uitoolkit-theme-style-sheet/Samples/UIToolkit.ThemeStyleSheet.Samples/UIToolkit.ThemeStyleSheet.Samples/VisualElementFactory2.cs
+  uploadId: 719432

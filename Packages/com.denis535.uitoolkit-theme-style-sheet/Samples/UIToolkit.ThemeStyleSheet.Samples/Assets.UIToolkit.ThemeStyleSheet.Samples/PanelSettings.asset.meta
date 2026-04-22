@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19d961f05f2f73d41b34d93dbc9c016a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273463
+  packageName: UIToolkit Theme Style Sheet
+  packageVersion: 1.3.0
+  assetPath: Packages/com.denis535.uitoolkit-theme-style-sheet/Samples/UIToolkit.ThemeStyleSheet.Samples/Assets.UIToolkit.ThemeStyleSheet.Samples/PanelSettings.asset
+  uploadId: 719432

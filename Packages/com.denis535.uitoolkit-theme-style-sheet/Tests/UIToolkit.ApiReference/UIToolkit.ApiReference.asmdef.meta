@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45db54b4c2d990b43a35be9d227e97d0
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273463
+  packageName: UIToolkit Theme Style Sheet
+  packageVersion: 1.3.0
+  assetPath: Packages/com.denis535.uitoolkit-theme-style-sheet/Tests/UIToolkit.ApiReference/UIToolkit.ApiReference.asmdef
+  uploadId: 719432
