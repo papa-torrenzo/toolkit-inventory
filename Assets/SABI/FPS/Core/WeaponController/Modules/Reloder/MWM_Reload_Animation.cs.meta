@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ccaa17e5af46144fb6ee16f6f531aba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/Reloder/MWM_Reload_Animation.cs
+  uploadId: 899258

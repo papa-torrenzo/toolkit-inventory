@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a6dc8e8ef9f3b24c85e69945f3b32a2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/ScriptTemplets/Resources/Templet_ScriptableObjectAndEditor.txt
+  uploadId: 899258

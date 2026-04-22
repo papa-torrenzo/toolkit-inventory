@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a287f7ce3f17d1a449802501d894f5a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/Shooter/MWM_Shooter_Simple.cs
+  uploadId: 899258

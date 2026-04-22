@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a4ca47e7b3664656863f8ec09b064792
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tree: {fileID: 9197481963319205126, guid: 3ba96287275a66647a4985a9b0a6985b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/Easy ScriptableObject Architecture/Core/Editor/DerivedValueEditor/StringValueSOEditor.cs
+  uploadId: 669772

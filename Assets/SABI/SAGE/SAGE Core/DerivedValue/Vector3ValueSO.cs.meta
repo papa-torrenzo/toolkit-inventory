@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 16048c4dd12b8d64fb4e0e333b187265
+timeCreated: 1713630529
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/SAGE/SAGE Core/DerivedValue/Vector3ValueSO.cs
+  uploadId: 669772

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d08f90c22668c3e4ba4c6af74dab5c50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/BulletType/MWM_BulletType_None.cs
+  uploadId: 899258

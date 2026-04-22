@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a81b5f4d18c049846bb8848c84564701
+timeCreated: 1713630399
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/SAGE/SAGE Core/DerivedValue/IntValueSO.cs
+  uploadId: 669772

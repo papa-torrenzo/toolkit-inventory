@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 473c1882daca9024fb7a7dae57f7ad68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/Utilities/KeyValueDataType.cs
+  uploadId: 899258

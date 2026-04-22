@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5ddaf4dfeb4f21b41a0d041d760afe8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/SAGE/SAGE Core/DerivedValue/FloatValueSO.cs
+  uploadId: 669772

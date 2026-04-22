@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8822e02abdb6894dadd9e7b408e86d0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/ScriptTemplets/Resources/Templet_Interface.txt
+  uploadId: 899258

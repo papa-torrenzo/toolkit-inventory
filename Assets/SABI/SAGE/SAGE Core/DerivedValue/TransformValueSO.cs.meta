@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f15a3e22528687e45aa5112ba83905d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/SAGE/SAGE Core/DerivedValue/TransformValueSO.cs
+  uploadId: 669772

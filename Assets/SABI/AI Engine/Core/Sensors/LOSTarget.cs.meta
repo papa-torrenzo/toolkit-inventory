@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 16d346f5661639a45b874a4845be379d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/AI Engine/Core/Sensors/LOSTarget.cs
+  uploadId: 899258

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9a9b808587cb1f84180fad2022c1471a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/AI Engine/Core/Support Systems/NavmeshManager.cs
+  uploadId: 899258

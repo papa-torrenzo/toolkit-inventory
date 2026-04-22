@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a364805cdf6d2b47b6cde3cbab11d35
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/ScriptTemplets/Resources/Templet_SageVariable.txt
+  uploadId: 899258

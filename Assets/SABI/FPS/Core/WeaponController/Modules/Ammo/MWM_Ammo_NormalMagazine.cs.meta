@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d9c60f24daf026e45b3a8d4fafc52a87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/Ammo/MWM_Ammo_NormalMagazine.cs
+  uploadId: 899258

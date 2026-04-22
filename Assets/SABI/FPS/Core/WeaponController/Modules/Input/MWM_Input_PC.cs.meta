@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b52e4858f5fe69040b0129340c9966a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/Input/MWM_Input_PC.cs
+  uploadId: 899258

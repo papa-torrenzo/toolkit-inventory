@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a09b8a235b99e2d48ac3079eec5ad87b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/ScriptTemplets/Resources/Templet_PropertyDrawer.txt
+  uploadId: 899258

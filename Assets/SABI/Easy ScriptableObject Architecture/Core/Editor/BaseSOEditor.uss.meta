@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1a5f93435d1bed940bb244131d3ae485
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/Easy ScriptableObject Architecture/Core/Editor/BaseSOEditor.uss
+  uploadId: 669772

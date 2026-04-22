@@ -1,0 +1,35 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/_SOA/Editor/BaseSOEditor.uss?fileID=7433441132597879392&amp;guid=1a5f93435d1bed940bb244131d3ae485&amp;type=3#BaseSOEditor" />
+    <ui:VisualElement name="Main" style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="Scriptable Value" parse-escape-sequences="true" display-tooltip-when-elided="true" name="AssetName" view-data-key="AssetName" style="font-size: 33px; -unity-text-align: upper-center; -unity-font-style: bold; color: rgb(255, 255, 255); margin-top: 22px; margin-bottom: 22px; padding-left: 0; padding-right: 0; letter-spacing: 0;" />
+        <ui:VisualElement name="Value" view-data-key="Value" class="Section" style="flex-grow: 1;">
+            <uie:PropertyField binding-path="value" />
+        </ui:VisualElement>
+        <ui:VisualElement name="More" view-data-key="More" class="Section" style="flex-grow: 1;">
+            <ui:Foldout text="Subscribers" name="MoreOptions" view-data-key="MoreOptions" value="false">
+                <uie:PropertyField name="totalSubscribers" view-data-key="totalSubscribers" binding-path="totalSubscribers" class="Property" style="margin-left: 0; margin-right: 5px;" />
+                <uie:PropertyField binding-path="MonoBehaviourSubscribers" view-data-key="MonoBehaviourSubscribers" name="MonoBehaviourSubscribers" class="Property" />
+                <uie:PropertyField binding-path="ScriptableObjectSubscribers" view-data-key="ScriptableObjectSubscribers" name="ScriptableObjectSubscribers" class="Property" />
+            </ui:Foldout>
+        </ui:VisualElement>
+        <ui:VisualElement name="Actions" view-data-key="Actions" class="Section" style="flex-grow: 1;">
+            <ui:Foldout text="Actions" value="false" name="Actions" view-data-key="Actions">
+                <uie:PropertyField name="eventOnReset" view-data-key="eventOnReset" label="eventOnReset" binding-path="eventOnReset" class="Property" />
+                <uie:PropertyField binding-path="resetValue" view-data-key="resetValue" name="resetValue" class="Property" />
+                <ui:Button text="Reset Value" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button_ResetValue" view-data-key="Button_ResetValue" focusable="false" class="Button" />
+            </ui:Foldout>
+        </ui:VisualElement>
+        <ui:VisualElement name="Debug" view-data-key="Debug" class="Section" style="flex-grow: 1;">
+            <ui:Foldout text="Debug" name="Debug" view-data-key="Debug" value="false">
+                <uie:PropertyField name="Section_debugLog" view-data-key="debugLog" binding-path="debugLog" class="Property" />
+                <ui:VisualElement>
+                    <ui:Label tabindex="-1" text="Log Message [ Starting ] [ $Value ] [ Ending ]" parse-escape-sequences="true" display-tooltip-when-elided="true" style="margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; -unity-font-style: italic; font-size: 14px; color: rgb(79, 79, 79);" />
+                    <uie:PropertyField name="debugLogMessageStarting" view-data-key="debugLogMessageStarting" binding-path="debugLogMessageStarting" label="Starting" class="Property" style="flex-grow: 2;" />
+                    <uie:PropertyField name="debugLogMessageEnding" view-data-key="debugLogMessageEnding" binding-path="debugLogMessageEnding" label="Ending" class="Property" style="flex-grow: 2;" />
+                </ui:VisualElement>
+                <uie:PropertyField name="debugValue" view-data-key="debugValue" binding-path="debugValue" class="Property" />
+                <ui:Button text="Set Debug Value" parse-escape-sequences="true" display-tooltip-when-elided="true" name="DebugSetValue" view-data-key="DebugSetValue" focusable="false" class="Button" />
+            </ui:Foldout>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

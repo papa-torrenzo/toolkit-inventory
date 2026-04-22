@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e447c49eb7c9f2b4d9513566215684c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/Shooter/MWM_ProjectileShooter.cs
+  uploadId: 899258

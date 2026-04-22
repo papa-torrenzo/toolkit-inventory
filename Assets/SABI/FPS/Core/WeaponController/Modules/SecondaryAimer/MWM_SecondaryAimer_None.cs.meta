@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f51c8eedef3ae6a46b37687061bae383
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/SecondaryAimer/MWM_SecondaryAimer_None.cs
+  uploadId: 899258

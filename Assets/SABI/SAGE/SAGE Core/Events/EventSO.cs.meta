@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3188d5de4fd5282459d867eed50b01b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/SAGE/SAGE Core/Events/EventSO.cs
+  uploadId: 899258

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9c22292489f4ca40ad7a413d985532a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/AI Engine/Examples/SampleScene/LightingData.asset
+  uploadId: 899258

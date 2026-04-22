@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d7b9ab2ad941d7449b33db28fc77a883
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/Inspector Button/Button Example/Scripts/ExampleOfInspectorButton.cs
+  uploadId: 899258

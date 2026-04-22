@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a31ac8ac61fc8bb4b89b52cd77430524
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/FPS/Core/WeaponController/Modules/Shooter/MWM_RaycastShooter.cs
+  uploadId: 899258

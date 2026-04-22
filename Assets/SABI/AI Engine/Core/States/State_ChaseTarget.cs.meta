@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0e4d7cef957c9442b04d947d59f5e2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/AI Engine/Core/States/State_ChaseTarget.cs
+  uploadId: 899258

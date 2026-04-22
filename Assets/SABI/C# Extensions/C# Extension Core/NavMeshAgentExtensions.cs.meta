@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7ca71ac84b1e8f74caddbe5e5bd62733
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/C# Extensions/C# Extension Core/NavMeshAgentExtensions.cs
+  uploadId: 899258

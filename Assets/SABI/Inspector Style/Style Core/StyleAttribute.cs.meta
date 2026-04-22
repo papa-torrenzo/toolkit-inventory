@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0191e437bd5e52428e12c7e4b999d61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 5
+  assetPath: Assets/SABI/Inspector Style/Style Core/StyleAttribute.cs
+  uploadId: 899258

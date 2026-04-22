@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: afb0f98b9bf02e342847a719e36b8b43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tree: {fileID: 9197481963319205126, guid: f4daa8ebb8f87894490610dbe32a21a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283576
+  packageName: SAGE - ScriptableObject Architecture for Game Engineering
+  packageVersion: 1.0
+  assetPath: Assets/SABI/Easy ScriptableObject Architecture/Core/Editor/EventSOEditor.cs
+  uploadId: 669772
