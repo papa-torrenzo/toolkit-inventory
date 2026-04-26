@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Project/_UI/Shared/GameWindowCasual.uss?fileID=7433441132597879392&amp;guid=cf3591bd23c7af44695eb609ac295eeb&amp;type=3#GameWindowCasual"/>
+    <ui:VisualElement name="game-window">
+        <ui:VisualElement name="content-area"/>
+        <ui:VisualElement name="title-bar" style="-unity-slice-scale: 0.15px;">
+            <ui:Label text="Backpack" name="title-label" class="h1"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

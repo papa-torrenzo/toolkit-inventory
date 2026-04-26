@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="UnityEngine.UIElements " editor-extension-mode="False">
+    <Style src="project://database/Assets/_Project/_UI/Shared/GameWindow.uss?fileID=7433441132597879392&amp;guid=62469ed2bf6da064e901be7e97901e8c&amp;type=3#GameWindow"/>
+    <ui:VisualElement name="game-window">
+        <ui:VisualElement name="content-area" style="flex-grow: 1;"/>
+        <ui:VisualElement name="title-bar">
+            <ui:Label text="Inventory" name="title-label" class="h1" style="-unity-text-generator: advanced;"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

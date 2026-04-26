@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 7f7811c5d642a5f4197c3a9cb51427ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1082
+        width: 317
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 46, z: 13, w: 29}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1966c716c3fa949a439837ec56ef8b
+      internalID: 611234381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1078
+        width: 317
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 47, z: 38, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b727ac583893047a3275f8fbe5efcc
+      internalID: -976313495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1099
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2014a6ec05a448bad7fdcc0396a7b
+      internalID: 1845596708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1092
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e063633b54b64186a174921705e7f
+      internalID: 248142940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1108
+        width: 180
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2174f147fb9182e4dadd06213ae67d8a
+      internalID: -878718481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1094
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d7f5d8dbb81714e8bb0123d35a4bc2
+      internalID: -1220659952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1104
+        width: 158
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83eec9b302f8ad4c8b1ae436b48b1ea
+      internalID: -161362513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 798
+        width: 320
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 44, z: 35, w: 35}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b08858b27d3c24a93da5bb873034f7
+      internalID: 135283726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 810
+        width: 319
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 49, y: 54, z: 25, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef001a0b2978f41bbc172634f0b918
+      internalID: -1809887559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 827
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6dc142ac7cdc44b9b82f88af04b981
+      internalID: -1386083780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 828
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92885d39ce98bca4c9fdef4226c840cd
+      internalID: 838386183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 822
+        width: 193
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858c4a4e974fe940ba842aee105865f
+      internalID: -28047500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 832
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931f218245e0434ba77a13b47468315
+      internalID: 767948568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 832
+        width: 168
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429a7f719bcd8d459fe9072a79c5042
+      internalID: -1163185570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 546
+        width: 320
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 54, z: 15, w: 15}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065f372e3fbef742afd610471d69f50
+      internalID: 441860821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 541
+        width: 319
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 59, z: 14, w: 34}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f57c18412f96f34a95363e0c5cc0f38
+      internalID: 631749165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 552
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40254b8b53af5b547bfb7f59e1fdf07c
+      internalID: 1319697132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 568
+        width: 200
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c5fa89a5b277344bf92e04cc5f35e7
+      internalID: -1770005162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 568
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7725e7e479288bf40b86967dd592885f
+      internalID: 2099115377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 580
+        width: 164
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c034acf19ff446935f9777c5b7fe6
+      internalID: 2098361299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 564
+        width: 164
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991de0451d721b49b824765996c7fe3
+      internalID: 790712437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 299
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959a19851e69b64cb4f2d04fffc965f
+      internalID: -1570353857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 299
+        width: 181
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55633e38268eb1d478802cd675b8e86a
+      internalID: 1006328199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 301
+        width: 210
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83261592b410706478b56554dec1cdaa
+      internalID: -1882828707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 299
+        width: 193
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ece25464f59e44afad4e92672f42b
+      internalID: -1503196121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 361
+        width: 503
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45023ad0a99388b4fbdcbbe315c13dd4
+      internalID: 1248798836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 68
+        width: 82
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88995b558805dcf4bb54d2311b4151e4
+      internalID: 1057586094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 68
+        width: 118
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed3cc5cd94ab84393ddab918ab8a53
+      internalID: 1121395355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 52
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c350ddb74872e54c931047060327d6a
+      internalID: -1749015139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 63
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f58676337d7824896f1fb1cdc4a0ec
+      internalID: -1167365511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 51
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35753e0742c479499f078328ae672cd
+      internalID: 1095950715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 53
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef8799d35788f419804fa5d22927bc
+      internalID: 881043082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 219
+        width: 503
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd71845229b1614ab66edecc9a1bd13
+      internalID: 664534708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: different-hud-elements-flat-frames-set - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 62
+        width: 512
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4321bcd87283438a609a230755c1c
+      internalID: -2012204535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2da1ee8b022d551468ff4f1968eff3c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      different-hud-elements-flat-frames-set - Copy_0: 611234381
+      different-hud-elements-flat-frames-set - Copy_1: -976313495
+      different-hud-elements-flat-frames-set - Copy_10: 838386183
+      different-hud-elements-flat-frames-set - Copy_11: -28047500
+      different-hud-elements-flat-frames-set - Copy_12: 767948568
+      different-hud-elements-flat-frames-set - Copy_13: -1163185570
+      different-hud-elements-flat-frames-set - Copy_14: 441860821
+      different-hud-elements-flat-frames-set - Copy_15: 631749165
+      different-hud-elements-flat-frames-set - Copy_16: 1319697132
+      different-hud-elements-flat-frames-set - Copy_17: -1770005162
+      different-hud-elements-flat-frames-set - Copy_18: 2099115377
+      different-hud-elements-flat-frames-set - Copy_19: 2098361299
+      different-hud-elements-flat-frames-set - Copy_2: 1845596708
+      different-hud-elements-flat-frames-set - Copy_20: 790712437
+      different-hud-elements-flat-frames-set - Copy_21: -1570353857
+      different-hud-elements-flat-frames-set - Copy_22: 1006328199
+      different-hud-elements-flat-frames-set - Copy_23: -847790690
+      different-hud-elements-flat-frames-set - Copy_24: -1882828707
+      different-hud-elements-flat-frames-set - Copy_25: -452547299
+      different-hud-elements-flat-frames-set - Copy_26: -1503196121
+      different-hud-elements-flat-frames-set - Copy_27: 1248798836
+      different-hud-elements-flat-frames-set - Copy_28: 1057586094
+      different-hud-elements-flat-frames-set - Copy_29: 1121395355
+      different-hud-elements-flat-frames-set - Copy_3: 248142940
+      different-hud-elements-flat-frames-set - Copy_30: -1749015139
+      different-hud-elements-flat-frames-set - Copy_31: -1167365511
+      different-hud-elements-flat-frames-set - Copy_32: 1095950715
+      different-hud-elements-flat-frames-set - Copy_33: 881043082
+      different-hud-elements-flat-frames-set - Copy_34: 664534708
+      different-hud-elements-flat-frames-set - Copy_35: -2012204535
+      different-hud-elements-flat-frames-set - Copy_4: -878718481
+      different-hud-elements-flat-frames-set - Copy_5: -1220659952
+      different-hud-elements-flat-frames-set - Copy_6: -161362513
+      different-hud-elements-flat-frames-set - Copy_7: 135283726
+      different-hud-elements-flat-frames-set - Copy_8: -1809887559
+      different-hud-elements-flat-frames-set - Copy_9: -1386083780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

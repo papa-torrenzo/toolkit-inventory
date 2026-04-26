@@ -17,6 +17,8 @@ namespace SABI
 
         public static Vector2 WithSubtractX(this Vector2 v, float x) => new Vector2(v.x - x, v.y);
 
+        public static Vector2 WithSubtract(this Vector2 v, float scalar) => new Vector2(v.x - scalar, v.y - scalar);
+        
         public static Vector2 WithMultiplyX(this Vector2 v, float x) => new Vector2(v.x * x, v.y);
 
         public static Vector2 WithAddY(this Vector2 v, float y) => new Vector2(v.x, v.y + y);
